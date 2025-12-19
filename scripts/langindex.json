@@ -2225,7 +2225,7 @@
   "core.login.sitehasredirect": "local_moodlemobileapp",
   "core.login.siteinmaintenance": "local_moodlemobileapp",
   "core.login.sitenotallowed": "local_moodlemobileapp",
-  "core.login.siteurl": "local_moodlemobileapp",
+  "core.login.siteurl": "https://campus.atisga.com/",
   "core.login.siteurlrequired": "local_moodlemobileapp",
   "core.login.startsignup": "moodle",
   "core.login.stillcantconnect": "local_moodlemobileapp",

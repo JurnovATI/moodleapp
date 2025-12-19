@@ -9,7 +9,13 @@
  * -------------------------------------------
  */
 :root {
+  --ion-background-color: #f8f9fc;
+}
 
+ion-page,
+ion-content {
+  --background: var(--ion-background-color);
+  background: var(--ion-background-color);
 }
 
 /*
@@ -17,5 +23,11 @@
  * -------------------------------------------
  */
 :root.dark {
+  --ion-background-color: linear-gradient(180deg, #2A3F54 10%, #16222E 100%);;
+}
 
+:root.dark ion-page,
+:root.dark ion-content {
+  --background: var(--ion-background-color);
+  background: var(--ion-background-color);
 }
